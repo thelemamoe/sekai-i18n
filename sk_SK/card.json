@@ -2,27 +2,27 @@
   "cardLevel": "Level karty",
   "skillLevel": "Level zručnosti",
   "trained": "Trénovaná",
-  "sideStory1Unlocked": "Side Story 1 Unlocked",
-  "sideStory2Unlocked": "Side Story 2 Unlocked",
+  "sideStory1Unlocked": "Vedľajší príbeh 1 odomknutý",
+  "sideStory2Unlocked": "Vedľajší príbeh 2 odomknutý",
   "skillName": "Názov zručnosti",
   "tab": {
     "title[0]": "Normálny obrázok",
-    "title[1]": "Normal trim image",
-    "title[2]": "After training image",
-    "title[3]": "After training trim image"
+    "title[1]": "Normálny orezaný obrázok",
+    "title[2]": "Obrázok po trénovaní",
+    "title[3]": "Orezaný obrázok po trénovaní"
   },
   "gachaPhrase": "Gacha fráza",
   "skillEffect": "Efekt zručnosti",
-  "masterRank": "Master Rank",
-  "masterRankLevel": "Master Rank Level",
+  "masterRank": "Majstrovská hodnosť",
+  "masterRankLevel": "Úroveň majstrovskej hodnosti",
   "stats": "Štatistiky",
   "normal": "Normálna",
   "sideStory": "Vedľajší príbeh",
   "sideStory_plural": "Vedľajšie príbehy",
   "rarity": "Rarita",
   "power": "Sila",
-  "apply_event_filter": "Apply Event Bonuses",
+  "apply_event_filter": "Použiť bonusy udalosti",
   "skill": "Zručnosť",
   "unitCount": "Počet skupín",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "specialCutIn": "Špeciálny záber z 3DMV"
 }
