@@ -1,17 +1,17 @@
 {
-  "alreadyEnded": "Event has ended",
-  "notStarted": "Not started",
+  "alreadyEnded": "האיבנט נגמר",
+  "notStarted": "לא התחיל",
   "tab": {
-    "title[0]": "Banner & logo",
-    "title[1]": "Background",
-    "title[2]": "Character"
+    "title[0]": "באנר & לוגו",
+    "title[1]": "רקע",
+    "title[2]": "דמות"
   },
-  "remainingTime": "Remaining Time",
-  "progress": "Progress",
-  "newlyWrittenSong": "Newly Written Song",
+  "remainingTime": "זמן נותר",
+  "progress": "התקדמות",
+  "newlyWrittenSong": "שיר חדש שנכתב",
   "title": {
     "boost": "Boost",
-    "cheerful_carnival": "Cheerful Carnival",
+    "cheerful_carnival": "קרניבל שמח",
     "timepoint": "Time Points",
     "rankingRewards": "Ranking Rewards",
     "worldLinkChapters": "World Link Chapters"
@@ -24,28 +24,28 @@
   "eventCards": "Event Cards",
   "cheerful_carnival_midterm_1": "First Midterm Report",
   "cheerful_carnival_midterm_2": "Second Midterm Report",
-  "startAt": "Event Starts At",
-  "closeAt": "Event Closes At",
+  "startAt": "האיבנט מתחיל ב-",
+  "closeAt": "האיבנט נגמר ב-",
   "endAt": "Event Entry Available Until",
-  "rankingAnnounceAt": "Ranking Announcement At",
-  "distributionStartAt": "Reward Distribution From",
+  "rankingAnnounceAt": "הכרזת דירוג ב-",
+  "distributionStartAt": "קבלת פרסים מ-",
   "rankingReward": {
-    "start": "From",
-    "end": "To"
+    "start": "מ-",
+    "end": "ל-"
   },
   "tracker": {
     "select": {
-      "event_name": "Event Name",
-      "rankings": "Rankings"
+      "event_name": "שם האיבנט",
+      "rankings": "דירוגים"
     },
     "button": {
-      "curr_event": "Current Event",
+      "curr_event": "האירוע הנוכחי ",
       "graph": "Fetch Graph",
       "random-palette": "Randomize Palette"
     },
     "pred_at": "Prediction calculated at",
     "show_all_rank": "Show all rankings",
-    "time_travel_enabled": "Time travel",
+    "time_travel_enabled": "מסע בזמן",
     "tooltip": {
       "get_prediction": "Prediction is only available after 24 hours from event start."
     },
@@ -57,33 +57,33 @@
       "average_speed": "Average Speed"
     }
   },
-  "ranking": "Ranking",
+  "ranking": "דירוג",
   "realtime": "Real time data at",
   "nextfetch": "Next fetch",
   "rankingTable": {
     "head": {
-      "userProfile": "User",
-      "score": "Point(s)",
+      "userProfile": "משתמש",
+      "score": "נקודה(ות)",
       "speed_per_hour": "Avg. Speed (/h)",
       "prediction": "Prediction"
     }
   },
-  "no_enough_data": "No enough data.",
+  "no_enough_data": "אין מספיק נתונים.",
   "speedTable": {
     "head": {
-      "all_time": "All time (per hour)",
-      "last_24h": "Last 24 hours (per hour)",
-      "last_1h": "Last 1 hour (per hour)"
+      "all_time": "כל הזמן (לשעה)",
+      "last_24h": "24 שעות אחרונות (לשעה)",
+      "last_1h": "שעה 1 אחרונה (לשעה)"
     }
   },
   "type": {
-    "marathon": "Marathon",
-    "cheerful_carnival": "Cheerful Carnival",
+    "marathon": "מרתון",
+    "cheerful_carnival": "קרניבל שמח",
     "world_bloom": "World Link"
   },
-  "distributionEndAt": "Reward Distribution Until",
-  "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past",
+  "distributionEndAt": "קבלת פרסים עד-",
+  "aggregateAt": "נקודת זמן מצטברת",
+  "alreadyPast": "כבר עבר",
   "worldBloom": {
     "chapter": "Chapter {{chapterNo}}"
   }
