@@ -38,5 +38,17 @@
     "life_recovery": "Bônus na Pontuação e Recuperação de Vida",
     "perfect_score_up": "Bônus na Pontuação em notas PERFECT",
     "life_score_up": "Bônus na Pontuação dependendo da vida"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplicar",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
