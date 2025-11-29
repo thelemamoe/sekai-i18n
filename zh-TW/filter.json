@@ -14,9 +14,9 @@
   },
   "time": {
     "irrelevant": "Irrelevant",
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
+    "before": "之前",
+    "after": "之後",
+    "between": "之間",
     "exactly": "Exactly"
   },
   "event": {
@@ -28,12 +28,12 @@
     }
   },
   "both": "全部",
-  "incl": "Include",
-  "excl": "Exclude",
+  "incl": "包括",
+  "excl": "不包括",
   "button": {
     "apply": "使用",
-    "resetChanges": "Reset Changes",
-    "clear": "Clear"
+    "resetChanges": "重置更改",
+    "clear": "清除"
   },
   "honorType": {
     "group_only_once": "每組只顯示一個",
@@ -76,5 +76,5 @@
     "unit_event_limited": "Unit Event Limited",
     "collaboration_limited": "Collaboration Limited"
   },
-  "clear": "Clear"
+  "clear": "清除"
 }

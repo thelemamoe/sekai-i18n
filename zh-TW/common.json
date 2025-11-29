@@ -45,7 +45,7 @@
   },
   "honor": {
     "bonds": "Kizuna",
-    "others": "Others"
+    "others": "其他"
   },
   "virtualLive": "虛擬演唱會",
   "assetViewer": "Asset檢視",
@@ -70,8 +70,8 @@
       "apiEndpointDescription": "",
       "targetLanguage": "目標語言",
       "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
+      "displayOptions": "顯示選項",
+      "displayOptionsDescription": "顯示原始文本"
     },
     "interfaceLanguage": "介面語言",
     "gameContent": "遊戲內容",
@@ -123,12 +123,12 @@
   "description": "描述",
   "bondsRank": "Kizuna Rank",
   "sequence": "排序",
-  "costume": "Costume",
+  "costume": "服裝",
   "hair": "Hair Style",
   "head": "Head Accessory",
   "profile": "角色資料",
   "character_plural": "角色",
-  "notFound": "Not Found",
+  "notFound": "未找到",
   "yes": "是",
   "no": "否",
   "serverRegionSelect": "伺服器地區",
@@ -137,7 +137,7 @@
     "tw": "繁體中文服",
     "en": "英文服（國際服）",
     "kr": "韓服",
-    "cn": "Simplified Chinese"
+    "cn": "簡體中文"
   },
   "language": "語言",
   "darkmode": "顯示主題",
