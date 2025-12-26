@@ -1,0 +1,47 @@
+{
+  "game-news": {
+    "action": "Aksiyon",
+    "show-from": "Başlangıç",
+    "title-column": "Başlık",
+    "show-until": "Bitiş",
+    "title": "Oyun haberleri"
+  },
+  "update": "Alakalı Linkler",
+  "alert_contributor": {
+    "title": "Geliştirmeye katkıda bulunanlara teşekkürler!"
+  },
+  "alert_translate": {
+    "title": "Çevirmenlere teşekkürler!"
+  },
+  "versionInfo": {
+    "caption": "Sürüm Bilgisi",
+    "gameClientVer": "Oyun İstemcisi Sürümü",
+    "dataVer": "Veri Sürümü",
+    "assetVer": "Varlık Sürümü",
+    "multiPlayerVer": "Çok-oyunculu Sürümü"
+  },
+  "happy_new_year": "🎊Yeni yılınız kutlu olsun!🎉",
+  "new_year_countdown": "Yeni yıla geri sayım",
+  "happy_anniversary": "Mutlu {{year}} Yıldönümü!",
+  "anniversary_countdown": "{{year}} Yıldönümüne Geri Sayım",
+  "disclaimer": "Bu web sitesi materyallerin sahibi değildir, tüm hakları Sega, Colorful Palette ve Crypton dahil ancak bunlarla sınırlı olmamak üzere hak sahiplerine aittir. Bu web sitesi, yalnızca araştırma amaçlı bir hayran yapımı veritabanıdır ve Sega veya Colorful Palette ile resmi bir ilişkisi yoktur.",
+  "detect": {
+    "warning": "Uyumluluk modunda çalışırken performans sorunu yaşayabilirsiniz. Tarayıcınızı veya iOS/macOS sürümünüzü yükseltmeyi düşünün.  <br>Daha fazla bilgi: <l>Can I Use - WebP image format</l>",
+    "failed": "Maalesef çoğu görüntüyü yükleyemiyorsunuz. Tarayıcınızı veya iOS/macOS sürümünüzü güncelleyin. Uyumluluk çözümü yakında kullanıma sunulacaktır.<br> Daha fazla bilgi: <l>Can I Use - WebP image format</l>",
+    "success": "Tebrikler! Tarayıcınız modern görünüyor, resimleri daha hızlı yükleyebilir ve veriden tasarruf eedebilirsiniz."
+  },
+  "directLink": {
+    "caption": "Kısayollar",
+    "contribList": "Katkıda bulunanlar"
+  },
+  "alert1": {
+    "translation": "Çeviriler",
+    "development": "Geliştirme",
+    "title": "Yardım lazım!",
+    "see_contrib_list": "Katkıda bulunanların listesini gör",
+    "contact": "Benimle iletişime geç",
+    "join-discord": "Discord Sunucusuna Katıl"
+  },
+  "changelog": "Değişiklik",
+  "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more."
+}
