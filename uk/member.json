@@ -1,11 +1,12 @@
 {
+  "availableWords": "Доступні слова",
   "tab": {
     "title[0]": "Персонаж",
-    "title[1]": "Name Label (horizontal)",
-    "title[2]": "Name Label (vertical)"
+    "title[1]": "Напис імені (горизонтально)",
+    "title[2]": "Напис імені (вертикально)"
   },
   "name": "Ім'я",
-  "hiragana": "Furigana",
+  "hiragana": "Фуріґана",
   "gender": {
     "caption": "Гендер",
     "female": "Жінка",
@@ -13,6 +14,7 @@
     "secret": "Таємниця "
   },
   "scenario": "Історія",
+  "gameData": "Game Data",
   "introduction": "Знайомство",
   "colorCode": "Колір зображення",
   "skinColorCode": "Колір шкіри",
@@ -24,10 +26,8 @@
   "school": "Школа",
   "schoolYear": "Клас",
   "hobby": "Гобі",
-  "specialSkill": "Specialty",
+  "specialSkill": "Особливі навички",
   "favoriteFood": "Улюблена їжа",
   "hatedFood": "Не улюблена їжа",
-  "weak": "Вади",
-  "availableWords": "Available Words",
-  "gameData": "Game Data"
+  "weak": "Вади"
 }
