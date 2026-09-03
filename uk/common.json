@@ -72,8 +72,8 @@
       "targetLanguageDescription": "Мова, якою перекладати історію",
       "displayOptions": "Параметри відображення",
       "displayOptionsDescription": "Показати оригінальний текст",
-      "additionalSystemPrompt": "Additional System Prompt",
-      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
+      "additionalSystemPrompt": "Додатковий системний промпт",
+      "additionalSystemPromptDescription": "Додаткові інструкції, що додаються до промпту перекладу."
     },
     "interfaceLanguage": "Мова інтерфейсу",
     "gameContent": "Ігровий контент",
@@ -119,7 +119,7 @@
   "show": "Показати",
   "back": "Назад",
   "next": "Далі",
-  "challengeLive": "Challenge Live",
+  "challengeLive": "Челендж-лайв",
   "endAt": "Доступно до",
   "level": "Рівень",
   "description": "Опис",
