@@ -86,9 +86,9 @@
     "cheerful_carnival": "Веселий Карнавал",
     "world_bloom": "World Link"
   },
-  "maxBoost": "Max Boost (Both Matched)",
-  "boostSpecificCards": "Boost Special Cards",
-  "distributionEndAt": "Reward Distribution Until",
-  "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past"
+  "maxBoost": "Максимальний буст (Обидва збігаються)",
+  "boostSpecificCards": "Особливі карти з бонусом",
+  "distributionEndAt": "Видача нагород триває до",
+  "aggregateAt": "Точка підбиття підсумків",
+  "alreadyPast": "Завершено"
 }

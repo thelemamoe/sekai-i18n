@@ -1,11 +1,11 @@
 {
   "result": {
     "perHour": "На годину",
-    "eventPointPerPlay": "Event Point Per Play",
-    "playClount": "Total Play Count",
+    "eventPointPerPlay": "Очки події за гру",
+    "playClount": "Загальна кількість ігор",
     "playTime": "Загальний час гри",
-    "useBoost": "Total Consumed Boost",
-    "totalPoint": "Total Event Point"
+    "useBoost": "Загально спожите підсилення",
+    "totalPoint": " Загальна кількість очок події"
   },
   "eventData": {
     "label": "Дані події"
@@ -17,12 +17,12 @@
   "gameData": {
     "energyDrink": "Витрати енергії",
     "eventBonusRate": "Бонус події (%)",
-    "teamAvgPower": "Average Total Power",
-    "currentPoint": "Current Point",
-    "targetPoint": "Target Point",
+    "teamAvgPower": "Середня загальна сила",
+    "currentPoint": " Поточні очки",
+    "targetPoint": "Цільові очки",
     "label": "Game Data",
     "desc": "Введіть дані з гри для розрахунку",
-    "remainingTime": "Event Remaining Hours"
+    "remainingTime": "Годин до кінця події"
   },
   "songSelect": {
     "label": "Вибір пісні",
@@ -37,5 +37,5 @@
     "all_songs": "Порівняти пісні",
     "only_one": "Вибір однієї пісні"
   },
-  "assumption": "Assumption: all perfect, multiplayers all have same team, no level up boost bonus."
+  "assumption": "Умови: всі Perfect, однакові команди в мультиплеєрі, без бонусу рівня."
 }

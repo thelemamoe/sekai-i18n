@@ -1,0 +1,80 @@
+{
+  "character": {
+    "caption": "Персонаж"
+  },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
+  "sort": {
+    "caption": "Сортувати",
+    "ascending": "За зростанням",
+    "descending": "За спаданням"
+  },
+  "time": {
+    "irrelevant": "Не застосовно",
+    "before": "До",
+    "after": "Після",
+    "between": "Між",
+    "exactly": "Точний збіг"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Тип гурту поді",
+      "event": "Гурт події",
+      "eventStory": "Гурт історії події",
+      "eventStoryMain": "Лише основний гурт історії"
+    }
+  },
+  "both": "Все",
+  "incl": "Включити",
+  "excl": "Виключити",
+  "button": {
+    "apply": "Застосувати",
+    "resetChanges": "Скинути зміни",
+    "clear": "Очистити"
+  },
+  "honorType": {
+    "group_only_once": "Показувати лише один у кожній групі",
+    "caption": "Тип титулу"
+  },
+  "not_set": "Не вказано",
+  "missionType": {
+    "caption": "Тип місії"
+  },
+  "music_tag": {
+    "caption": "Тег пісні"
+  },
+  "music_mv": {
+    "caption": "Тип музичного відео"
+  },
+  "stampType": {
+    "caption": "Тип штампу",
+    "text": "Тільки текст",
+    "illustration": "Зі зображенням"
+  },
+  "language": {
+    "caption": "Мова",
+    "source": "Мова оригіналу",
+    "target": "Мова перекладу"
+  },
+  "not-selected": "Не обрано",
+  "skill": {
+    "score_up": "Підсилення рахунку",
+    "judgment_up": "Покращення точності та підсилення рахунку",
+    "life_recovery": "Відновлення здоров'я та підсилення рахунку",
+    "perfect_score_up": "Підвищення рахунку за PERFECT",
+    "life_score_up": "Підвищення рахунку залежно від HP"
+  },
+  "card_supply":{
+    "normal": "Звичайний",
+    "birthday": "День народження",
+    "term_limited": "Обмежена за часом",
+    "colorful_festival_limited": "Обмежений Барвистий Фестиваль",
+    "bloom_festival_limited": "Обмежений Цвіт Фестиваль",
+    "unit_event_limited": "Обмежено гуртом події",
+    "collaboration_limited": "Обмежена колаборація"
+  },
+  "clear": "Очистити"
+}
