@@ -60,18 +60,18 @@
     "clear_live_school_miyamasuzaka": "Пройти лайви з персонажками Міямасудзаки",
     "clear_live_school_kamiyama": "Пройти лайви з персонажами Каміями",
     "clear_live_male": "Пройти лайви з персонажами-хлопцями",
-    "multi_live_mvp": "MVP in Multiplayer Live",
-    "multi_live_super_star": "Super Star in Multiplayer Live",
-    "light_sound_virtual_live_total_cheer_point": "Total Cheering Points in Leo/need's virtual live",
-    "idol_virtual_live_total_cheer_point": "Total Cheering Points in MORE MORE JUMP's virtual live",
-    "street_virtual_live_total_cheer_point": "Total Cheering Points in Vivid BAD SQUAD's virtual live",
-    "theme_park_virtual_live_total_cheer_point": "Total Cheering Points in Wonderlands x Showtime's virtual live",
-    "school_refusal_virtual_live_total_cheer_point": "Total Cheering Points in 25-ji, Nightcord de.'s virtual live",
-    "piapro_virtual_live_total_cheer_point": "Total Cheering Points in Virtual Singer's virtual live",
-    "send_friend_request": "Send Friend Request",
-    "make_friend": "Make Friends",
-    "clear_multi_live_all_friend": "Clear Multiplayer Live only with Friends"
+    "multi_live_mvp": "Отримати MVP у мультиплеєр-лайві",
+    "multi_live_super_star": "Отримати Super Star у мультиплеєр-лайві",
+    "light_sound_virtual_live_total_cheer_point": "Загальна кількість балів підтримки у віртуальному лайві Leo/need",
+    "idol_virtual_live_total_cheer_point": "Загальна кількість балів підтримки у віртуальному лайві MORE MORE JUMP!",
+    "street_virtual_live_total_cheer_point": "Загальна кількість балів підтримки у віртуальному лайві Vivid BAD SQUAD",
+    "theme_park_virtual_live_total_cheer_point": "Загальна кількість балів підтримки у віртуальному лайві Wonderlands x Showtime",
+    "school_refusal_virtual_live_total_cheer_point": "Загальна кількість балів підтримки у віртуальному лайві 25-ji, Nightcord de.",
+    "piapro_virtual_live_total_cheer_point": "Загальна кількість балів підтримки у віртуальному лайві Virtual Singer",
+    "send_friend_request": "Надіслати запит у друзі",
+    "make_friend": "Подружитися",
+    "clear_multi_live_all_friend": "Пройти мультиплеєрний лайв лише з друзями"
   },
-  "requirement": "Required Amount",
-  "mission_group": "Mission Group"
+  "requirement": "Необхідна кількість",
+  "mission_group": "Група місій"
 }

@@ -1,0 +1,37 @@
+{
+  "selectValue": {
+    "eventStory": "Історії подій",
+    "unitStory": "Історії гурту",
+    "charaStory": "Історії персонажів",
+    "cardStory": "Історії карт",
+    "areaTalk": "Розмови на карті",
+    "specialStory": "Особливі історії",
+    "mysekaiTalk": "Розмови в MySekai",
+    "liveTalk": "Розмови під час лайву"
+  },
+  "snippet": {
+    "FullScreenText": "Текст на весь екран",
+    "Telop": "Напис",
+    "ChangeBackground": "Зміна фону",
+    "ShowBackground": "Показати фонове зображення",
+    "Movie": "Відеоролик",
+    "ShowMovie": "Відтворити відеоролик",
+    "BGM": "Фонова музика",
+    "SE": "Звуковий ефект",
+    "NoSound": "Без звуку"
+  },
+  "selectLabel": {
+    "storyType": "Тип історії",
+    "unitName": "Назва гурту",
+    "unitStoryChapter": "Розділ",
+    "unitStoryEpisode": "Епізод",
+    "eventName": "Назва події",
+    "eventStoryEpisode": "Епізод",
+    "charaName": "Ім'я персонажа",
+    "cardName": "Назва картки",
+    "cardStoryEpisode": "Епізод"
+  },
+  "buttonLabel": {
+    "showEpisode": "Завантажити епізод історії"
+  }
+}
